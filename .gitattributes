@@ -1,0 +1,9 @@
+pkgs/mingw-w64-gcc-bin-10.1.0-1-x86_64.pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
+pkgs/mingw-w64-headers-bin-7.0.0-1-any.pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
+pkgs/mingw-w64-pkg-config-2-4-any.pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
+pkgs/mingw-w64-sdl2-2.0.12-2-any.pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
+pkgs/mingw-w64-binutils-bin-2.34-2-x86_64.pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
+pkgs/mingw-w64-crt-bin-7.0.0-2-any.pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
+pkgs/mingw-w64-winpthreads-bin-7.0.0-2-any.pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
+pkgs/mingw-w64-configure-0.1.1-9-any.pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
+pkgs/mingw-w64-environment-1-2-any.pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
